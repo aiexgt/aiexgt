@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </section>
 <h3 align="left">My Git Status:</h3>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=aiexgt&&show_icons=true&title_color=&icon_color=24ff00&text_color=00fff6&bg_color=#000">
+<img src="https://github-readme-stats.vercel.app/api?username=aiexgt&&show_icons=true&title_color=&icon_color=24ff00&text_color=00fff6&bg_color=000000
 </div>
 
 
