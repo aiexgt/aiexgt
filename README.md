@@ -40,10 +40,9 @@ Here are some ideas to get you started:
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="heroku" width="40" height="40"/></a>
 </div>
 </section>
-## My Git Status
-<br>
+<h3 align="left">My Git Status:</h3>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Amshenshanu07&&show_icons=true&title_color=&icon_color=24ff00&text_color=00fff6&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=aiexgt&&show_icons=true&title_color=&icon_color=24ff00&text_color=00fff6&bg_color=151515">
 </div>
 
 
