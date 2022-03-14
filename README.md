@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=aiexgt&show_icons=true">
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiexgt&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiexgt&layout=compact&theme=tokyonight">
 </div>
 
 
