@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=aiexgt&&show_icons=true&title_color=&icon_color=24ff00&text_color=00fff6&bg_color=000000">
 </div>
+<div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <h3 align="left">Contact:</h3>
