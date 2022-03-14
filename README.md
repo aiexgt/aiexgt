@@ -41,10 +41,8 @@ Here are some ideas to get you started:
 </div>
 </section>
 <h3 align="left">My Git Status:</h3>
-<div>
+<div style="display:flex">
 <img src="https://github-readme-stats.vercel.app/api?username=aiexgt&show_icons=true&theme=tokyonight">
-</div>
-<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiexgt&layout=compact&theme=tokyonight">
 </div>
 
