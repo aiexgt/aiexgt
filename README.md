@@ -41,12 +41,7 @@ Here are some ideas to get you started :
 </div>
 </section>
 <h3 align="left">My Git Status:</h3>
-<div>
-<img src="https://activity-graph.herokuapp.com/graph?username=aiexgt&&theme=xcode">
-</div>
 <div style="display:flex">
-<img src="https://github-readme-stats.vercel.app/api?username=aiexgt&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiexgt&layout=compact&theme=tokyonight">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiexgt&&theme=tokyonight" alt="rishavchanda" />
 </div>
 
